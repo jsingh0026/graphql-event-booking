@@ -1,0 +1,6 @@
+{
+    "env": {
+        "mongoURI":"mongodb+srv://admin:admin@cluster0-ru1lu.mongodb.net/events-graphql?retryWrites=true&w=majority",
+        "secretKey": "secret"
+    }
+}
